@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca-sketch&show_icons=true&theme=dark)
 
-### Technologies
+### Technologies I use in my daily life
 
 <div style= "display: inline_block"><br/>
 
@@ -27,7 +27,7 @@
 
 
 
-<img align="center" alt="python" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img align="center" alt="python" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/><p></div>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     
