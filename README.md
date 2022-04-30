@@ -29,7 +29,7 @@
 
 <img align="center" alt="python" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/><p></div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-sketc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-sketch)](https://github.com/anuraghazra/github-readme-stats)
     
 </div><br/>
 
