@@ -1,5 +1,9 @@
 ### Hi!! I'm Lucas 💻
 
+Electrical Engineer with a postgraduate degree in Software Engineering, focused on developing digital solutions for process optimization and automation.
+
+Experienced in Power Platform, RPA, and full-stack development, with a background that combines software and hardware (Arduino, ESP32, Raspberry Pi).
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca-sketch&show_icons=true&theme=dark)
 
