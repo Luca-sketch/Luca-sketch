@@ -19,7 +19,7 @@
 <img align="center" alt="Power Platform" src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img align="center" alt="UiPath" src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
 
-
+<br/>
 
 <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
