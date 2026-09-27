@@ -31,9 +31,6 @@ Experienced in Power Platform, RPA, and full-stack development, with a backgroun
 <img align="center" alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
 </div>
- 
-![Linguagens](https://img.shields.io/github/languages/top/Luca-sketch/Luca-sketch?style=for-the-badge&color=blue)
-![Repositórios Públicos](https://img.shields.io/github/repos/personal/Luca-sketch?style=for-the-badge&color=green)
     
 </div><br/>
 
