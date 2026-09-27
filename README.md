@@ -32,11 +32,8 @@ Experienced in Power Platform, RPA, and full-stack development, with a backgroun
 
 </div>
  
-<!-- Linguagens mais usadas em formato de pizza -->
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Luca-sketch&theme=dark)
-
-<!-- Visão geral do perfil -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luca-sketch&theme=dark)
+![Linguagens](https://img.shields.io/github/languages/top/Luca-sketch/Luca-sketch?style=for-the-badge&color=blue)
+![Repositórios Públicos](https://img.shields.io/github/repos/personal/Luca-sketch?style=for-the-badge&color=green)
     
 </div><br/>
 
