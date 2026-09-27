@@ -32,11 +32,11 @@ Experienced in Power Platform, RPA, and full-stack development, with a backgroun
 
 </div>
  
-<!-- Stats Card -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Luca-sketch&show_icons=true&theme=dark)
+<!-- Linguagens mais usadas em formato de pizza -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Luca-sketch&theme=dark)
 
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luca-sketch&theme=dark&layout=compact)
+<!-- Visão geral do perfil -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luca-sketch&theme=dark)
     
 </div><br/>
 
