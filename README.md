@@ -6,7 +6,7 @@ Experienced in Power Platform, RPA, and full-stack development, with a backgroun
 
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luca-sketch&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-sketch&theme=dark)
 
 ### Technologies I use in my daily life
 
@@ -32,8 +32,11 @@ Experienced in Power Platform, RPA, and full-stack development, with a backgroun
 
 </div>
  
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-sketch&theme=dark)](https://github.com/Luca-sketch)
+<!-- Stats Card -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Luca-sketch&show_icons=true&theme=dark)
+
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luca-sketch&theme=dark&layout=compact)
     
 </div><br/>
 
